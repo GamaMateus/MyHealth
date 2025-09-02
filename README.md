@@ -101,9 +101,3 @@ Médicos, psicólogos, nutricionistas, fisioterapeutas e outros que querem expan
 - **Integração com gateways de pagamento seguros.**  
 - **Plataforma de telemedicina integrada com vídeo seguro.**  
 - **Assinatura digital para documentos médicos.**
-
-
-# Envie para o repositório remoto
-git push origin feature/nome-da-feature
-
-# Abra um Pull Request no GitHub
