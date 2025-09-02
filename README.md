@@ -1,6 +1,6 @@
 # MYHEALTH
 
-Plataforma digital para unir profissionais autônomos da saúde e seus pacientes de forma prática e desburocratizada. Inspirada em modelos como *iFood* e *QuintoAndar*, o **MYHEALTH** facilita o acesso aos profissionais, agendamento, consulta de valores e promove um ecossistema confiável e seguro.
+Plataforma digital para unir profissionais autônomos da saúde e seus pacientes de forma prática e desburocratizada. Inspirada em modelos como de sucesso, o **MYHEALTH** facilita o acesso aos profissionais, agendamento, consulta de valores e promove um ecossistema confiável e seguro.
 
 ---
 
