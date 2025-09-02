@@ -102,19 +102,6 @@ Médicos, psicólogos, nutricionistas, fisioterapeutas e outros que querem expan
 - **Plataforma de telemedicina integrada com vídeo seguro.**  
 - **Assinatura digital para documentos médicos.**
 
----
-
-
-```bash
-# Faça o fork deste repositório
-git clone https://github.com/seu-usuario/myhealth.git
-cd myhealth
-
-# Crie uma branch para sua feature
-git checkout -b feature/nome-da-feature
-
-# Faça commit das suas alterações
-git commit -m "Adiciona nova feature"
 
 # Envie para o repositório remoto
 git push origin feature/nome-da-feature
