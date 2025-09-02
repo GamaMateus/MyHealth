@@ -1,2 +1,2 @@
 # MyHealth
-A MyHealth é uma plataforma digital que conecta pacientes a profissionais autônomos da saúde, oferecendo agendamento online, transparência de valores e uma experiência prática, segura e inovadora em um único marketplace.
+A MyHealth é uma plataforma digital inovadora, um verdadeiro marketplace de saúde e bem-estar. Inspirada na simplicidade e eficiência de gigantes do mercado, nossa missão é revolucionar a forma como pacientes encontram e se conectam com profissionais autônomos da saúde. Descomplicamos o acesso ao cuidado, oferecendo em um só lugar uma vitrine de especialistas, agendamento online, transparência de valores e uma experiência totalmente digital e segura. 
